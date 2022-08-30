@@ -47,14 +47,14 @@ const Footer = () => {
           >
             <div className={classes.contact}>
               <a
-                href="https://www.linkedin.com/in/therajesh/"
+                href="https://www.linkedin.com/in/vaishnavi-sai-2671b2207/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <BsLinkedin className={classes.contactItems} />
               </a>
               <a
-                href="https://github.com/therajesh24/crypto-tracker"
+                href="https://github.com/svaishu515/crypto_tracker"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -69,11 +69,11 @@ const Footer = () => {
             <p style={{ paddingTop: "10px" }}>
               © {new Date().getFullYear()} - developed by{" "}
               <a
-                href="https://github.com/therajesh24/"
+                href="https://github.com/svaishu515/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Rajesh D
+                Vaishnavi Sai
               </a>
             </p>
           </Typography>
